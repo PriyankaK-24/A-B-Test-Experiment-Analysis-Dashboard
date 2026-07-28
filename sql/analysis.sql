@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS total_sessions FROM ab_test_results;

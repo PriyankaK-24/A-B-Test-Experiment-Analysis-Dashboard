@@ -64,7 +64,10 @@ Deploy Variant B as the primary recommendation algorithm and continue optimizing
 
 📷 Dashboard Preview
 
-![A/B Test Dashboard](images/dashboard.png)
+<p align="center">
+  <img src="images/dashboard.png" alt="A/B Test Dashboard" width="1000"/>
+</p>
+
 
 📁 Repository Structure
 A-B-Test-Experiment-Analysis/
